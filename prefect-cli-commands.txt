@@ -3,3 +3,4 @@ uv run file.py
 uvx prefect-cloud deploy file.py:main --name deployment_name --from path_to
 uvx prefect-cloud run main/deployment_name
 uvx prefect-cloud schedule main/deployment_name "0 8 * * *"
+prefect config set PREFECT_RESULTS_PERSIST_BY_DEFAULT=true # this sets prefect to cache flow and task executions/results
