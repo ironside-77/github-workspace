@@ -1,22 +1,24 @@
 from prefect import task, flow
 import pandas as pd
 
-@task
+@task(log_prints=True)
 def importing_data():
-    data = pd.read_csv('C:/scripts/data.csv')
+    data = pd.read_csv('data.csv')
     print('running task 1')
     return data
 
-@task
-def to_json():
-    df = importing_data()
-    df.to_json('C:/workspace/data.json', orient='records')
+@task(log_prints=True)
+def to_json(data):
+    print("Running task 2")
+    data.to_json('data.json', orient='records')
 
-@flow
+@flow(log_prints=True)
 def main():
-    importing_data()
-    to_json()
+    print("running main flow")
+    data = importing_data()
+    to_json(data)
 
-if __name__ == "__main__":
-    main()
+
+
+
     
