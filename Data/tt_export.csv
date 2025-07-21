@@ -1,0 +1,711 @@
+PERIOD,PERIOD_LAB,YEAR,YEAR_LAB,PARTNER,PARTNER_LAB,FLOW,FLOW_LAB,BEC,BEC_LAB,INDICATORS,INDICATORS_LAB,INDICATOR_VALUE
+00,"Annual",2018,"No label",AE,"UNITED ARAB EMIRATES",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",988587
+00,"Annual",2018,"No label",AE,"UNITED ARAB EMIRATES",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",850667
+00,"Annual",2018,"No label",AE,"UNITED ARAB EMIRATES",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",57685
+00,"Annual",2018,"No label",AG,"ANTIGUA AND BARBUDA",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",678
+00,"Annual",2018,"No label",AG,"ANTIGUA AND BARBUDA",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",925588
+00,"Annual",2018,"No label",AG,"ANTIGUA AND BARBUDA",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",4642686
+00,"Annual",2018,"No label",AG,"ANTIGUA AND BARBUDA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",54578060
+00,"Annual",2018,"No label",AG,"ANTIGUA AND BARBUDA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",16955
+00,"Annual",2018,"No label",AG,"ANTIGUA AND BARBUDA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",24771875
+00,"Annual",2018,"No label",AG,"ANTIGUA AND BARBUDA",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",147746994
+00,"Annual",2018,"No label",AG,"ANTIGUA AND BARBUDA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",118189925
+00,"Annual",2018,"No label",AG,"ANTIGUA AND BARBUDA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",949697
+00,"Annual",2018,"No label",AG,"ANTIGUA AND BARBUDA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",22451
+00,"Annual",2018,"No label",AG,"ANTIGUA AND BARBUDA",d,"domestic exports",51,"Transport equipment, passenger motor cars",VALUE,"VALUE",50610
+00,"Annual",2018,"No label",AG,"ANTIGUA AND BARBUDA",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",931142
+00,"Annual",2018,"No label",AG,"ANTIGUA AND BARBUDA",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",1346690
+00,"Annual",2018,"No label",AG,"ANTIGUA AND BARBUDA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",2819793
+00,"Annual",2018,"No label",AG,"ANTIGUA AND BARBUDA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",27105552
+00,"Annual",2018,"No label",AI,"ANGUILLA",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",999
+00,"Annual",2018,"No label",AI,"ANGUILLA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",1889677
+00,"Annual",2018,"No label",AI,"ANGUILLA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",2564
+00,"Annual",2018,"No label",AI,"ANGUILLA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",8781834
+00,"Annual",2018,"No label",AI,"ANGUILLA",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",9569482
+00,"Annual",2018,"No label",AI,"ANGUILLA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",254366
+00,"Annual",2018,"No label",AI,"ANGUILLA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",113960
+00,"Annual",2018,"No label",AI,"ANGUILLA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",1558
+00,"Annual",2018,"No label",AI,"ANGUILLA",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",17154
+00,"Annual",2018,"No label",AI,"ANGUILLA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",13103
+00,"Annual",2018,"No label",AI,"ANGUILLA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",372702
+00,"Annual",2018,"No label",AO,"ANGOLA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",362697
+00,"Annual",2018,"No label",AR,"ARGENTINA",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",182233232
+00,"Annual",2018,"No label",AR,"ARGENTINA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",758873846
+00,"Annual",2018,"No label",AT,"AUSTRIA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",7125
+00,"Annual",2018,"No label",AT,"AUSTRIA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",1681
+00,"Annual",2018,"No label",AU,"AUSTRALIA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",38490495
+00,"Annual",2018,"No label",AU,"AUSTRALIA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",80162176
+00,"Annual",2018,"No label",AU,"AUSTRALIA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",430994
+00,"Annual",2018,"No label",AU,"AUSTRALIA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",4749
+00,"Annual",2018,"No label",AW,"ARUBA",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",12278
+00,"Annual",2018,"No label",AW,"ARUBA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",3538805
+00,"Annual",2018,"No label",AW,"ARUBA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",5330117
+00,"Annual",2018,"No label",AW,"ARUBA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",4718125
+00,"Annual",2018,"No label",AW,"ARUBA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",269005
+00,"Annual",2018,"No label",AW,"ARUBA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",64913
+00,"Annual",2018,"No label",AW,"ARUBA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",2635527
+00,"Annual",2018,"No label",AW,"ARUBA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",10099749
+00,"Annual",2018,"No label",BB,"BARBADOS",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",17191
+00,"Annual",2018,"No label",BB,"BARBADOS",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",2788210
+00,"Annual",2018,"No label",BB,"BARBADOS",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",7002120
+00,"Annual",2018,"No label",BB,"BARBADOS",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",187582443
+00,"Annual",2018,"No label",BB,"BARBADOS",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",929505
+00,"Annual",2018,"No label",BB,"BARBADOS",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",98600134
+00,"Annual",2018,"No label",BB,"BARBADOS",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",1184144678
+00,"Annual",2018,"No label",BB,"BARBADOS",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",14095507
+00,"Annual",2018,"No label",BB,"BARBADOS",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",6287346
+00,"Annual",2018,"No label",BB,"BARBADOS",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",1786819
+00,"Annual",2018,"No label",BB,"BARBADOS",d,"domestic exports",522,"Transport equipment, other, non-industrial",VALUE,"VALUE",33068
+00,"Annual",2018,"No label",BB,"BARBADOS",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",2343205
+00,"Annual",2018,"No label",BB,"BARBADOS",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",7632451
+00,"Annual",2018,"No label",BB,"BARBADOS",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",10295644
+00,"Annual",2018,"No label",BB,"BARBADOS",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",81798092
+00,"Annual",2018,"No label",BE,"BELGIUM",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",6182
+00,"Annual",2018,"No label",BE,"BELGIUM",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",1658359010
+00,"Annual",2018,"No label",BE,"BELGIUM",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",52018
+00,"Annual",2018,"No label",BM,"BERMUDA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",1472099
+00,"Annual",2018,"No label",BM,"BERMUDA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",8235
+00,"Annual",2018,"No label",BM,"BERMUDA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",4394675
+00,"Annual",2018,"No label",BM,"BERMUDA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",4703
+00,"Annual",2018,"No label",BM,"BERMUDA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",19318
+00,"Annual",2018,"No label",BM,"BERMUDA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",379870
+00,"Annual",2018,"No label",BO,"BOLIVIA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",22398
+00,"Annual",2018,"No label",BO,"BOLIVIA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",164101
+00,"Annual",2018,"No label",BQ,"BONAIRE, ST. EUSTATIUS, SABA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",8137
+00,"Annual",2018,"No label",BQ,"BONAIRE, ST. EUSTATIUS, SABA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",1378402
+00,"Annual",2018,"No label",BQ,"BONAIRE, ST. EUSTATIUS, SABA",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",2393700503
+00,"Annual",2018,"No label",BQ,"BONAIRE, ST. EUSTATIUS, SABA",d,"domestic exports",521,"Transport equipment, other, industrial",VALUE,"VALUE",45165
+00,"Annual",2018,"No label",BQ,"BONAIRE, ST. EUSTATIUS, SABA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",33519
+00,"Annual",2018,"No label",BR,"BRAZIL",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",771388
+00,"Annual",2018,"No label",BR,"BRAZIL",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",994212880
+00,"Annual",2018,"No label",BR,"BRAZIL",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",3432600
+00,"Annual",2018,"No label",BR,"BRAZIL",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",382509558
+00,"Annual",2018,"No label",BR,"BRAZIL",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",27971
+00,"Annual",2018,"No label",BR,"BRAZIL",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",1213
+00,"Annual",2018,"No label",BS,"BAHAMAS",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",8678
+00,"Annual",2018,"No label",BS,"BAHAMAS",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",822626
+00,"Annual",2018,"No label",BS,"BAHAMAS",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",2422035
+00,"Annual",2018,"No label",BS,"BAHAMAS",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",2305
+00,"Annual",2018,"No label",BS,"BAHAMAS",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",14241
+00,"Annual",2018,"No label",BS,"BAHAMAS",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",66393
+00,"Annual",2018,"No label",BS,"BAHAMAS",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",2682731
+00,"Annual",2018,"No label",BZ,"BELIZE",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",15271143
+00,"Annual",2018,"No label",BZ,"BELIZE",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",2564
+00,"Annual",2018,"No label",BZ,"BELIZE",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",32394735
+00,"Annual",2018,"No label",BZ,"BELIZE",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",125409
+00,"Annual",2018,"No label",BZ,"BELIZE",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",674203
+00,"Annual",2018,"No label",BZ,"BELIZE",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",2967294
+00,"Annual",2018,"No label",BZ,"BELIZE",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",33885961
+00,"Annual",2018,"No label",CA,"CANADA",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",90126
+00,"Annual",2018,"No label",CA,"CANADA",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",7377812
+00,"Annual",2018,"No label",CA,"CANADA",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",307431
+00,"Annual",2018,"No label",CA,"CANADA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",23808182
+00,"Annual",2018,"No label",CA,"CANADA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",491991
+00,"Annual",2018,"No label",CA,"CANADA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",523129353
+00,"Annual",2018,"No label",CA,"CANADA",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",678
+00,"Annual",2018,"No label",CA,"CANADA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",208843526
+00,"Annual",2018,"No label",CA,"CANADA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",27000
+00,"Annual",2018,"No label",CA,"CANADA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",1760
+00,"Annual",2018,"No label",CA,"CANADA",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",3127
+00,"Annual",2018,"No label",CA,"CANADA",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",1943
+00,"Annual",2018,"No label",CA,"CANADA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",20925
+00,"Annual",2018,"No label",CA,"CANADA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",148750
+00,"Annual",2018,"No label",CD,"DEMOCRATIC REP. OF THE CONGO",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",373371
+00,"Annual",2018,"No label",CH,"SWITZERLAND",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",1994803
+00,"Annual",2018,"No label",CH,"SWITZERLAND",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",20695224
+00,"Annual",2018,"No label",CH,"SWITZERLAND",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",177872464
+00,"Annual",2018,"No label",CH,"SWITZERLAND",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",31
+00,"Annual",2018,"No label",CI,"COTE D'IVOIRE",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",25586068
+00,"Annual",2018,"No label",CL,"CHILE",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",507550
+00,"Annual",2018,"No label",CL,"CHILE",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",328941959
+00,"Annual",2018,"No label",CL,"CHILE",d,"domestic exports",31,"Fuels and lubricants, primary",VALUE,"VALUE",98670975
+00,"Annual",2018,"No label",CL,"CHILE",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",1379412635
+00,"Annual",2018,"No label",CL,"CHILE",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",368379
+00,"Annual",2018,"No label",CM,"CAMEROON",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",13559
+00,"Annual",2018,"No label",CN,"CHINA",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",17
+00,"Annual",2018,"No label",CN,"CHINA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",476
+00,"Annual",2018,"No label",CN,"CHINA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",59803116
+00,"Annual",2018,"No label",CN,"CHINA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",954615953
+00,"Annual",2018,"No label",CN,"CHINA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",132482
+00,"Annual",2018,"No label",CN,"CHINA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",4752
+00,"Annual",2018,"No label",CN,"CHINA",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",16884
+00,"Annual",2018,"No label",CN,"CHINA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",1541
+00,"Annual",2018,"No label",CN,"CHINA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",4956
+00,"Annual",2018,"No label",CO,"COLOMBIA",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",5474
+00,"Annual",2018,"No label",CO,"COLOMBIA",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",167633
+00,"Annual",2018,"No label",CO,"COLOMBIA",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",8247
+00,"Annual",2018,"No label",CO,"COLOMBIA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",14606195
+00,"Annual",2018,"No label",CO,"COLOMBIA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",753
+00,"Annual",2018,"No label",CO,"COLOMBIA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",462547080
+00,"Annual",2018,"No label",CO,"COLOMBIA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",311970431
+00,"Annual",2018,"No label",CO,"COLOMBIA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",777470
+00,"Annual",2018,"No label",CO,"COLOMBIA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",288694
+00,"Annual",2018,"No label",CO,"COLOMBIA",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",17069
+00,"Annual",2018,"No label",CO,"COLOMBIA",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",2272
+00,"Annual",2018,"No label",CO,"COLOMBIA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",8812
+00,"Annual",2018,"No label",CO,"COLOMBIA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",255182
+00,"Annual",2018,"No label",CR,"COSTA RICA",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",34
+00,"Annual",2018,"No label",CR,"COSTA RICA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",3405705
+00,"Annual",2018,"No label",CR,"COSTA RICA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",85861
+00,"Annual",2018,"No label",CR,"COSTA RICA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",33476473
+00,"Annual",2018,"No label",CR,"COSTA RICA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",53562273
+00,"Annual",2018,"No label",CR,"COSTA RICA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",15748
+00,"Annual",2018,"No label",CR,"COSTA RICA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",5515
+00,"Annual",2018,"No label",CR,"COSTA RICA",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",424
+00,"Annual",2018,"No label",CR,"COSTA RICA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",573440
+00,"Annual",2018,"No label",CR,"COSTA RICA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",780
+00,"Annual",2018,"No label",CU,"CUBA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",846690
+00,"Annual",2018,"No label",CU,"CUBA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",50715720
+00,"Annual",2018,"No label",CU,"CUBA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",7800
+00,"Annual",2018,"No label",CU,"CUBA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",339
+00,"Annual",2018,"No label",CU,"CUBA",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",125243
+00,"Annual",2018,"No label",CU,"CUBA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",1397813
+00,"Annual",2018,"No label",CU,"CUBA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",1916522
+00,"Annual",2018,"No label",CW,"CURACAO",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",23310
+00,"Annual",2018,"No label",CW,"CURACAO",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",509030
+00,"Annual",2018,"No label",CW,"CURACAO",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",11904488
+00,"Annual",2018,"No label",CW,"CURACAO",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",14832498
+00,"Annual",2018,"No label",CW,"CURACAO",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",9357639
+00,"Annual",2018,"No label",CW,"CURACAO",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",56115
+00,"Annual",2018,"No label",CW,"CURACAO",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",12509
+00,"Annual",2018,"No label",CW,"CURACAO",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",547643
+00,"Annual",2018,"No label",CW,"CURACAO",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",1089614
+00,"Annual",2018,"No label",CW,"CURACAO",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",1799770
+00,"Annual",2018,"No label",CZ,"CZECH REPUBLIC",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",48109
+00,"Annual",2018,"No label",CZ,"CZECH REPUBLIC",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",610
+00,"Annual",2018,"No label",CZ,"CZECH REPUBLIC",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",1695
+00,"Annual",2018,"No label",DE,"GERMANY",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",2802895
+00,"Annual",2018,"No label",DE,"GERMANY",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",421526
+00,"Annual",2018,"No label",DE,"GERMANY",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",22470
+00,"Annual",2018,"No label",DE,"GERMANY",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",1737450
+00,"Annual",2018,"No label",DE,"GERMANY",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",15013579
+00,"Annual",2018,"No label",DE,"GERMANY",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",150978640
+00,"Annual",2018,"No label",DE,"GERMANY",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",809367
+00,"Annual",2018,"No label",DE,"GERMANY",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",562904936
+00,"Annual",2018,"No label",DE,"GERMANY",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",917767
+00,"Annual",2018,"No label",DE,"GERMANY",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",663315
+00,"Annual",2018,"No label",DE,"GERMANY",d,"domestic exports",521,"Transport equipment, other, industrial",VALUE,"VALUE",10938
+00,"Annual",2018,"No label",DE,"GERMANY",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",255344
+00,"Annual",2018,"No label",DE,"GERMANY",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",182799
+00,"Annual",2018,"No label",DE,"GERMANY",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",134408
+00,"Annual",2018,"No label",DE,"GERMANY",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",398374
+00,"Annual",2018,"No label",DK,"DENMARK",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",10300
+00,"Annual",2018,"No label",DK,"DENMARK",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",7125
+00,"Annual",2018,"No label",DK,"DENMARK",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",60293
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",13885
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",383467
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",539424
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",35445907
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",131838
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",58709611
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",141262414
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",1222347
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",3686943
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",129313
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",51,"Transport equipment, passenger motor cars",VALUE,"VALUE",150000
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",521,"Transport equipment, other, industrial",VALUE,"VALUE",2245
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",522,"Transport equipment, other, non-industrial",VALUE,"VALUE",339
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",485676
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",1963533
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",5139953
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",12505090
+00,"Annual",2018,"No label",DM,"DOMINICA",d,"domestic exports",7,"Goods nes",VALUE,"VALUE",148
+00,"Annual",2018,"No label",DO,"DOMINICAN REP.",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",592
+00,"Annual",2018,"No label",DO,"DOMINICAN REP.",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",7140
+00,"Annual",2018,"No label",DO,"DOMINICAN REP.",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",27
+00,"Annual",2018,"No label",DO,"DOMINICAN REP.",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",43911323
+00,"Annual",2018,"No label",DO,"DOMINICAN REP.",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",130058
+00,"Annual",2018,"No label",DO,"DOMINICAN REP.",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",199771393
+00,"Annual",2018,"No label",DO,"DOMINICAN REP.",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",262153177
+00,"Annual",2018,"No label",DO,"DOMINICAN REP.",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",96333026
+00,"Annual",2018,"No label",DO,"DOMINICAN REP.",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",1092656
+00,"Annual",2018,"No label",DO,"DOMINICAN REP.",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",299108
+00,"Annual",2018,"No label",DO,"DOMINICAN REP.",d,"domestic exports",521,"Transport equipment, other, industrial",VALUE,"VALUE",237
+00,"Annual",2018,"No label",DO,"DOMINICAN REP.",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",105
+00,"Annual",2018,"No label",DO,"DOMINICAN REP.",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",250711
+00,"Annual",2018,"No label",DO,"DOMINICAN REP.",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",505627
+00,"Annual",2018,"No label",DO,"DOMINICAN REP.",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",3920271
+00,"Annual",2018,"No label",EC,"ECUADOR",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",38275051
+00,"Annual",2018,"No label",EC,"ECUADOR",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",58373483
+00,"Annual",2018,"No label",EC,"ECUADOR",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",169728
+00,"Annual",2018,"No label",EG,"EGYPT",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",112000
+00,"Annual",2018,"No label",ES,"SPAIN",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",240
+00,"Annual",2018,"No label",ES,"SPAIN",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",993244
+00,"Annual",2018,"No label",ES,"SPAIN",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",23000
+00,"Annual",2018,"No label",ES,"SPAIN",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",461648687
+00,"Annual",2018,"No label",ES,"SPAIN",d,"domestic exports",31,"Fuels and lubricants, primary",VALUE,"VALUE",138538256
+00,"Annual",2018,"No label",ES,"SPAIN",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",62277949
+00,"Annual",2018,"No label",ES,"SPAIN",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",1625857995
+00,"Annual",2018,"No label",ES,"SPAIN",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",81873
+00,"Annual",2018,"No label",FI,"FINLAND",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",178336377
+00,"Annual",2018,"No label",FR,"FRANCE",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",133894
+00,"Annual",2018,"No label",FR,"FRANCE",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",1727540
+00,"Annual",2018,"No label",FR,"FRANCE",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",881194668
+00,"Annual",2018,"No label",FR,"FRANCE",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",82619660
+00,"Annual",2018,"No label",FR,"FRANCE",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",6781
+00,"Annual",2018,"No label",FR,"FRANCE",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",28397
+00,"Annual",2018,"No label",GB,"UNITED KINGDOM",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",43359
+00,"Annual",2018,"No label",GB,"UNITED KINGDOM",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",938848
+00,"Annual",2018,"No label",GB,"UNITED KINGDOM",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",22641
+00,"Annual",2018,"No label",GB,"UNITED KINGDOM",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",14551147
+00,"Annual",2018,"No label",GB,"UNITED KINGDOM",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",116496
+00,"Annual",2018,"No label",GB,"UNITED KINGDOM",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",501568629
+00,"Annual",2018,"No label",GB,"UNITED KINGDOM",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",688816
+00,"Annual",2018,"No label",GB,"UNITED KINGDOM",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",147942016
+00,"Annual",2018,"No label",GB,"UNITED KINGDOM",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",2212496
+00,"Annual",2018,"No label",GB,"UNITED KINGDOM",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",2306899
+00,"Annual",2018,"No label",GB,"UNITED KINGDOM",d,"domestic exports",51,"Transport equipment, passenger motor cars",VALUE,"VALUE",652862
+00,"Annual",2018,"No label",GB,"UNITED KINGDOM",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",461093
+00,"Annual",2018,"No label",GB,"UNITED KINGDOM",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",14227
+00,"Annual",2018,"No label",GB,"UNITED KINGDOM",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",109356
+00,"Annual",2018,"No label",GD,"GRENADA",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",50802
+00,"Annual",2018,"No label",GD,"GRENADA",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",927178
+00,"Annual",2018,"No label",GD,"GRENADA",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",1684214
+00,"Annual",2018,"No label",GD,"GRENADA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",104830457
+00,"Annual",2018,"No label",GD,"GRENADA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",442567
+00,"Annual",2018,"No label",GD,"GRENADA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",126785553
+00,"Annual",2018,"No label",GD,"GRENADA",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",341505980
+00,"Annual",2018,"No label",GD,"GRENADA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",13682628
+00,"Annual",2018,"No label",GD,"GRENADA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",4149723
+00,"Annual",2018,"No label",GD,"GRENADA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",2452049
+00,"Annual",2018,"No label",GD,"GRENADA",d,"domestic exports",521,"Transport equipment, other, industrial",VALUE,"VALUE",317075
+00,"Annual",2018,"No label",GD,"GRENADA",d,"domestic exports",522,"Transport equipment, other, non-industrial",VALUE,"VALUE",4000
+00,"Annual",2018,"No label",GD,"GRENADA",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",633910
+00,"Annual",2018,"No label",GD,"GRENADA",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",2123386
+00,"Annual",2018,"No label",GD,"GRENADA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",6493896
+00,"Annual",2018,"No label",GD,"GRENADA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",33147170
+00,"Annual",2018,"No label",GF,"FRENCH GUIANA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",894880
+00,"Annual",2018,"No label",GF,"FRENCH GUIANA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",7869377
+00,"Annual",2018,"No label",GF,"FRENCH GUIANA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",22227319
+00,"Annual",2018,"No label",GF,"FRENCH GUIANA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",13912
+00,"Annual",2018,"No label",GH,"GHANA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",5806
+00,"Annual",2018,"No label",GH,"GHANA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",23696423
+00,"Annual",2018,"No label",GH,"GHANA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",7291
+00,"Annual",2018,"No label",GP,"GUADELOUPE",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",2000
+00,"Annual",2018,"No label",GP,"GUADELOUPE",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",8230290
+00,"Annual",2018,"No label",GP,"GUADELOUPE",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",5128
+00,"Annual",2018,"No label",GP,"GUADELOUPE",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",8009797
+00,"Annual",2018,"No label",GP,"GUADELOUPE",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",209159612
+00,"Annual",2018,"No label",GP,"GUADELOUPE",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",29367155
+00,"Annual",2018,"No label",GP,"GUADELOUPE",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",2009
+00,"Annual",2018,"No label",GP,"GUADELOUPE",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",6000
+00,"Annual",2018,"No label",GP,"GUADELOUPE",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",146469
+00,"Annual",2018,"No label",GP,"GUADELOUPE",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",20803
+00,"Annual",2018,"No label",GR,"GREECE",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",908926
+00,"Annual",2018,"No label",GR,"GREECE",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",20204
+00,"Annual",2018,"No label",GR,"GREECE",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",9775248
+00,"Annual",2018,"No label",GR,"GREECE",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",10067
+00,"Annual",2018,"No label",GT,"GUATEMALA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",9060690
+00,"Annual",2018,"No label",GT,"GUATEMALA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",626549
+00,"Annual",2018,"No label",GT,"GUATEMALA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",13943
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",21606
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",2947510
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",4711655
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",268069084
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",12363643
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",186472333
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",31,"Fuels and lubricants, primary",VALUE,"VALUE",2835
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",1930636963
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",56798069
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",2908561
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",10498120
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",51,"Transport equipment, passenger motor cars",VALUE,"VALUE",50843
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",521,"Transport equipment, other, industrial",VALUE,"VALUE",216964
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",522,"Transport equipment, other, non-industrial",VALUE,"VALUE",1178
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",2707869
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",2903477
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",10531065
+00,"Annual",2018,"No label",GY,"GUYANA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",127335692
+00,"Annual",2018,"No label",HK,"HONG KONG",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",17585
+00,"Annual",2018,"No label",HK,"HONG KONG",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",73287564
+00,"Annual",2018,"No label",HK,"HONG KONG",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",48717605
+00,"Annual",2018,"No label",HK,"HONG KONG",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",189043
+00,"Annual",2018,"No label",HN,"HONDURAS",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",1090158
+00,"Annual",2018,"No label",HN,"HONDURAS",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",63562
+00,"Annual",2018,"No label",HN,"HONDURAS",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",20874181
+00,"Annual",2018,"No label",HN,"HONDURAS",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",136
+00,"Annual",2018,"No label",HN,"HONDURAS",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",90365
+00,"Annual",2018,"No label",HT,"HAITI",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",2464356
+00,"Annual",2018,"No label",HT,"HAITI",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",35360808
+00,"Annual",2018,"No label",HT,"HAITI",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",44059186
+00,"Annual",2018,"No label",HT,"HAITI",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",23658
+00,"Annual",2018,"No label",HT,"HAITI",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",63107
+00,"Annual",2018,"No label",HT,"HAITI",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",440013
+00,"Annual",2018,"No label",IE,"IRELAND",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",996
+00,"Annual",2018,"No label",IE,"IRELAND",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",4100554
+00,"Annual",2018,"No label",IE,"IRELAND",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",36782976
+00,"Annual",2018,"No label",IM,"ISLE OF MAN",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",119116
+00,"Annual",2018,"No label",IN,"INDIA",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",1
+00,"Annual",2018,"No label",IN,"INDIA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",104892
+00,"Annual",2018,"No label",IN,"INDIA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",11726219
+00,"Annual",2018,"No label",IN,"INDIA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",6637244
+00,"Annual",2018,"No label",IN,"INDIA",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",72435
+00,"Annual",2018,"No label",IN,"INDIA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",273672962
+00,"Annual",2018,"No label",IN,"INDIA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",117898
+00,"Annual",2018,"No label",IN,"INDIA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",415231
+00,"Annual",2018,"No label",IN,"INDIA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",813
+00,"Annual",2018,"No label",IT,"ITALY",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",219999
+00,"Annual",2018,"No label",IT,"ITALY",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",140195074
+00,"Annual",2018,"No label",IT,"ITALY",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",84923493
+00,"Annual",2018,"No label",IT,"ITALY",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",15733
+00,"Annual",2018,"No label",IT,"ITALY",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",48806
+00,"Annual",2018,"No label",IT,"ITALY",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",9200
+00,"Annual",2018,"No label",JM,"JAMAICA",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",6820
+00,"Annual",2018,"No label",JM,"JAMAICA",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",699376
+00,"Annual",2018,"No label",JM,"JAMAICA",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",29976899
+00,"Annual",2018,"No label",JM,"JAMAICA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",392011217
+00,"Annual",2018,"No label",JM,"JAMAICA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",53363
+00,"Annual",2018,"No label",JM,"JAMAICA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",228941625
+00,"Annual",2018,"No label",JM,"JAMAICA",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",1625979366
+00,"Annual",2018,"No label",JM,"JAMAICA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",296103329
+00,"Annual",2018,"No label",JM,"JAMAICA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",642264
+00,"Annual",2018,"No label",JM,"JAMAICA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",1647749
+00,"Annual",2018,"No label",JM,"JAMAICA",d,"domestic exports",51,"Transport equipment, passenger motor cars",VALUE,"VALUE",100000
+00,"Annual",2018,"No label",JM,"JAMAICA",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",3936291
+00,"Annual",2018,"No label",JM,"JAMAICA",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",1714779
+00,"Annual",2018,"No label",JM,"JAMAICA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",19136629
+00,"Annual",2018,"No label",JM,"JAMAICA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",86991892
+00,"Annual",2018,"No label",JO,"JORDAN",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",164973675
+00,"Annual",2018,"No label",JP,"JAPAN",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",1731925
+00,"Annual",2018,"No label",JP,"JAPAN",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",778521
+00,"Annual",2018,"No label",JP,"JAPAN",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",24145144
+00,"Annual",2018,"No label",JP,"JAPAN",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",115468363
+00,"Annual",2018,"No label",JP,"JAPAN",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",288089
+00,"Annual",2018,"No label",KN,"ST. KITTS AND NEVIS",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",3787
+00,"Annual",2018,"No label",KN,"ST. KITTS AND NEVIS",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",456308
+00,"Annual",2018,"No label",KN,"ST. KITTS AND NEVIS",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",167927
+00,"Annual",2018,"No label",KN,"ST. KITTS AND NEVIS",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",27692732
+00,"Annual",2018,"No label",KN,"ST. KITTS AND NEVIS",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",46983
+00,"Annual",2018,"No label",KN,"ST. KITTS AND NEVIS",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",38023306
+00,"Annual",2018,"No label",KN,"ST. KITTS AND NEVIS",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",97326700
+00,"Annual",2018,"No label",KN,"ST. KITTS AND NEVIS",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",723490
+00,"Annual",2018,"No label",KN,"ST. KITTS AND NEVIS",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",224790
+00,"Annual",2018,"No label",KN,"ST. KITTS AND NEVIS",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",185188
+00,"Annual",2018,"No label",KN,"ST. KITTS AND NEVIS",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",3750
+00,"Annual",2018,"No label",KN,"ST. KITTS AND NEVIS",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",1534958
+00,"Annual",2018,"No label",KN,"ST. KITTS AND NEVIS",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",2614814
+00,"Annual",2018,"No label",KN,"ST. KITTS AND NEVIS",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",15603928
+00,"Annual",2018,"No label",KP,"KOREA, D. P. REP.",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",1692715
+00,"Annual",2018,"No label",KP,"KOREA, D. P. REP.",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",3285138
+00,"Annual",2018,"No label",KP,"KOREA, D. P. REP.",d,"domestic exports",51,"Transport equipment, passenger motor cars",VALUE,"VALUE",30000
+00,"Annual",2018,"No label",KR,"KOREA, REPUBLIC OF",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",116656779
+00,"Annual",2018,"No label",KR,"KOREA, REPUBLIC OF",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",1283432950
+00,"Annual",2018,"No label",KR,"KOREA, REPUBLIC OF",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",171149989
+00,"Annual",2018,"No label",KR,"KOREA, REPUBLIC OF",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",1600238
+00,"Annual",2018,"No label",KR,"KOREA, REPUBLIC OF",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",4278364
+00,"Annual",2018,"No label",KW,"KUWAIT",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",481686
+00,"Annual",2018,"No label",KW,"KUWAIT",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",813
+00,"Annual",2018,"No label",KY,"CAYMAN ISLANDS",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",2942077
+00,"Annual",2018,"No label",KY,"CAYMAN ISLANDS",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",23814
+00,"Annual",2018,"No label",KY,"CAYMAN ISLANDS",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",124477965
+00,"Annual",2018,"No label",KY,"CAYMAN ISLANDS",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",28641
+00,"Annual",2018,"No label",KY,"CAYMAN ISLANDS",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",16294
+00,"Annual",2018,"No label",KY,"CAYMAN ISLANDS",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",1390805
+00,"Annual",2018,"No label",KY,"CAYMAN ISLANDS",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",16873528
+00,"Annual",2018,"No label",LB,"LEBANON",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",284706
+00,"Annual",2018,"No label",LC,"ST. LUCIA",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",2000
+00,"Annual",2018,"No label",LC,"ST. LUCIA",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",567818
+00,"Annual",2018,"No label",LC,"ST. LUCIA",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",5276066
+00,"Annual",2018,"No label",LC,"ST. LUCIA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",71515687
+00,"Annual",2018,"No label",LC,"ST. LUCIA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",33447
+00,"Annual",2018,"No label",LC,"ST. LUCIA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",59964365
+00,"Annual",2018,"No label",LC,"ST. LUCIA",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",415025843
+00,"Annual",2018,"No label",LC,"ST. LUCIA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",13344707
+00,"Annual",2018,"No label",LC,"ST. LUCIA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",1913422
+00,"Annual",2018,"No label",LC,"ST. LUCIA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",246131
+00,"Annual",2018,"No label",LC,"ST. LUCIA",d,"domestic exports",51,"Transport equipment, passenger motor cars",VALUE,"VALUE",69000
+00,"Annual",2018,"No label",LC,"ST. LUCIA",d,"domestic exports",521,"Transport equipment, other, industrial",VALUE,"VALUE",60000
+00,"Annual",2018,"No label",LC,"ST. LUCIA",d,"domestic exports",522,"Transport equipment, other, non-industrial",VALUE,"VALUE",6000
+00,"Annual",2018,"No label",LC,"ST. LUCIA",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",1270741
+00,"Annual",2018,"No label",LC,"ST. LUCIA",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",2948362
+00,"Annual",2018,"No label",LC,"ST. LUCIA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",5480613
+00,"Annual",2018,"No label",LC,"ST. LUCIA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",43481671
+00,"Annual",2018,"No label",LR,"LIBERIA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",14337
+00,"Annual",2018,"No label",LR,"LIBERIA",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",240480392
+00,"Annual",2018,"No label",LT,"LITHUANIA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",16787
+00,"Annual",2018,"No label",LT,"LITHUANIA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",900
+00,"Annual",2018,"No label",LU,"LUXEMBOURG",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",3300
+00,"Annual",2018,"No label",LU,"LUXEMBOURG",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",600
+00,"Annual",2018,"No label",LV,"LATVIA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",29641
+00,"Annual",2018,"No label",MA,"MOROCCO",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",709110114
+00,"Annual",2018,"No label",MF," Saint Martin",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",1278
+00,"Annual",2018,"No label",MF," Saint Martin",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",1294085
+00,"Annual",2018,"No label",MF," Saint Martin",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",41068
+00,"Annual",2018,"No label",MG,"MADAGASCAR",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",7649274
+00,"Annual",2018,"No label",MH,"MARSHALL ISLANDS",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",182998
+00,"Annual",2018,"No label",MH,"MARSHALL ISLANDS",d,"domestic exports",31,"Fuels and lubricants, primary",VALUE,"VALUE",195489450
+00,"Annual",2018,"No label",MH,"MARSHALL ISLANDS",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",41031
+00,"Annual",2018,"No label",MH,"MARSHALL ISLANDS",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",9312
+00,"Annual",2018,"No label",MH,"MARSHALL ISLANDS",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",7650
+00,"Annual",2018,"No label",MQ,"MARTINIQUE",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",1865
+00,"Annual",2018,"No label",MQ,"MARTINIQUE",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",4177578
+00,"Annual",2018,"No label",MQ,"MARTINIQUE",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",18140661
+00,"Annual",2018,"No label",MQ,"MARTINIQUE",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",148851091
+00,"Annual",2018,"No label",MQ,"MARTINIQUE",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",11601132
+00,"Annual",2018,"No label",MQ,"MARTINIQUE",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",3852
+00,"Annual",2018,"No label",MQ,"MARTINIQUE",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",12000
+00,"Annual",2018,"No label",MQ,"MARTINIQUE",d,"domestic exports",522,"Transport equipment, other, non-industrial",VALUE,"VALUE",486164
+00,"Annual",2018,"No label",MQ,"MARTINIQUE",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",7995
+00,"Annual",2018,"No label",MQ,"MARTINIQUE",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",167949
+00,"Annual",2018,"No label",MS,"MONTSERRAT",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",2417
+00,"Annual",2018,"No label",MS,"MONTSERRAT",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",64315
+00,"Annual",2018,"No label",MS,"MONTSERRAT",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",6296
+00,"Annual",2018,"No label",MS,"MONTSERRAT",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",1580108
+00,"Annual",2018,"No label",MS,"MONTSERRAT",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",2331
+00,"Annual",2018,"No label",MS,"MONTSERRAT",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",2300713
+00,"Annual",2018,"No label",MS,"MONTSERRAT",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",60720
+00,"Annual",2018,"No label",MS,"MONTSERRAT",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",12766
+00,"Annual",2018,"No label",MS,"MONTSERRAT",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",8045
+00,"Annual",2018,"No label",MS,"MONTSERRAT",d,"domestic exports",521,"Transport equipment, other, industrial",VALUE,"VALUE",1304
+00,"Annual",2018,"No label",MS,"MONTSERRAT",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",85491
+00,"Annual",2018,"No label",MS,"MONTSERRAT",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",218214
+00,"Annual",2018,"No label",MS,"MONTSERRAT",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",1727488
+00,"Annual",2018,"No label",MU,"MAURITIUS",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",8100
+00,"Annual",2018,"No label",MX,"MEXICO",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",6700
+00,"Annual",2018,"No label",MX,"MEXICO",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",2649905
+00,"Annual",2018,"No label",MX,"MEXICO",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",1222956795
+00,"Annual",2018,"No label",MX,"MEXICO",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",257674770
+00,"Annual",2018,"No label",MX,"MEXICO",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",347402
+00,"Annual",2018,"No label",MX,"MEXICO",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",41806
+00,"Annual",2018,"No label",MX,"MEXICO",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",23390
+00,"Annual",2018,"No label",MX,"MEXICO",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",28642
+00,"Annual",2018,"No label",MY,"MALAYSIA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",394514
+00,"Annual",2018,"No label",MY,"MALAYSIA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",436257
+00,"Annual",2018,"No label",NG,"NIGERIA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",3668
+00,"Annual",2018,"No label",NI,"NICARAGUA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",202767
+00,"Annual",2018,"No label",NL,"NETHERLANDS",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",2817074
+00,"Annual",2018,"No label",NL,"NETHERLANDS",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",36361447
+00,"Annual",2018,"No label",NL,"NETHERLANDS",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",203743
+00,"Annual",2018,"No label",NL,"NETHERLANDS",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",1249976687
+00,"Annual",2018,"No label",NL,"NETHERLANDS",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",132974583
+00,"Annual",2018,"No label",NL,"NETHERLANDS",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",484920510
+00,"Annual",2018,"No label",NL,"NETHERLANDS",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",461642
+00,"Annual",2018,"No label",NL,"NETHERLANDS",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",189757
+00,"Annual",2018,"No label",NL,"NETHERLANDS",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",601757
+00,"Annual",2018,"No label",NO,"NORWAY",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",100
+00,"Annual",2018,"No label",NO,"NORWAY",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",15486
+00,"Annual",2018,"No label",NO,"NORWAY",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",8061
+00,"Annual",2018,"No label",NO,"NORWAY",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",97010
+00,"Annual",2018,"No label",NO,"NORWAY",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",399864
+00,"Annual",2018,"No label",NO,"NORWAY",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",452921
+00,"Annual",2018,"No label",NZ,"NEW ZEALAND",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",6363
+00,"Annual",2018,"No label",NZ,"NEW ZEALAND",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",7400
+00,"Annual",2018,"No label",NZ,"NEW ZEALAND",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",335966
+00,"Annual",2018,"No label",PA,"PANAMA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",17254998
+00,"Annual",2018,"No label",PA,"PANAMA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",31220
+00,"Annual",2018,"No label",PA,"PANAMA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",93719870
+00,"Annual",2018,"No label",PA,"PANAMA",d,"domestic exports",31,"Fuels and lubricants, primary",VALUE,"VALUE",213689244
+00,"Annual",2018,"No label",PA,"PANAMA",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",137635965
+00,"Annual",2018,"No label",PA,"PANAMA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",119082759
+00,"Annual",2018,"No label",PA,"PANAMA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",134801
+00,"Annual",2018,"No label",PA,"PANAMA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",10104
+00,"Annual",2018,"No label",PA,"PANAMA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",75586
+00,"Annual",2018,"No label",PA,"PANAMA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",1265229
+00,"Annual",2018,"No label",PE,"PERU",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",203752
+00,"Annual",2018,"No label",PE,"PERU",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",77290682
+00,"Annual",2018,"No label",PE,"PERU",d,"domestic exports",31,"Fuels and lubricants, primary",VALUE,"VALUE",3501425551
+00,"Annual",2018,"No label",PE,"PERU",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",3064320
+00,"Annual",2018,"No label",PE,"PERU",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",263980
+00,"Annual",2018,"No label",PK,"PAKISTAN",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",888815
+00,"Annual",2018,"No label",PK,"PAKISTAN",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",40000
+00,"Annual",2018,"No label",PN,"PITCAIRN",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",5000
+00,"Annual",2018,"No label",PR,"PUERTO RICO",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",11858242
+00,"Annual",2018,"No label",PR,"PUERTO RICO",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",209287
+00,"Annual",2018,"No label",PR,"PUERTO RICO",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",16554368
+00,"Annual",2018,"No label",PR,"PUERTO RICO",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",1186606872
+00,"Annual",2018,"No label",PR,"PUERTO RICO",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",1627233221
+00,"Annual",2018,"No label",PR,"PUERTO RICO",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",1128
+00,"Annual",2018,"No label",PR,"PUERTO RICO",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",73243
+00,"Annual",2018,"No label",PR,"PUERTO RICO",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",586394
+00,"Annual",2018,"No label",PR,"PUERTO RICO",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",19569331
+00,"Annual",2018,"No label",PT,"PORTUGAL",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",23875
+00,"Annual",2018,"No label",PT,"PORTUGAL",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",348925042
+00,"Annual",2018,"No label",RO,"ROMANIA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",60232
+00,"Annual",2018,"No label",RO,"ROMANIA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",43395
+00,"Annual",2018,"No label",RU,"RUSSIAN FEDERATION",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",4336668
+00,"Annual",2018,"No label",RU,"RUSSIAN FEDERATION",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",950886
+00,"Annual",2018,"No label",SA,"SAUDI ARABIA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",963827
+00,"Annual",2018,"No label",SC,"SEYCHELLES",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",68080
+00,"Annual",2018,"No label",SD,"SUDAN",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",2300
+00,"Annual",2018,"No label",SE,"SWEDEN",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",100
+00,"Annual",2018,"No label",SE,"SWEDEN",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",70248
+00,"Annual",2018,"No label",SE,"SWEDEN",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",7
+00,"Annual",2018,"No label",SG,"SINGAPORE",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",3797500
+00,"Annual",2018,"No label",SG,"SINGAPORE",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",6310000
+00,"Annual",2018,"No label",SG,"SINGAPORE",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",118402621
+00,"Annual",2018,"No label",SI,"SLOVENIA",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",2833
+00,"Annual",2018,"No label",SI,"SLOVENIA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",40081
+00,"Annual",2018,"No label",SI,"SLOVENIA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",10577
+00,"Annual",2018,"No label",SK,"SLOVAKIA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",396702
+00,"Annual",2018,"No label",SK,"SLOVAKIA",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",273032
+00,"Annual",2018,"No label",SM,"SAN MARINO",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",243836
+00,"Annual",2018,"No label",SM,"SAN MARINO",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",149542
+00,"Annual",2018,"No label",SN,"SENEGAL",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",769529344
+00,"Annual",2018,"No label",SN,"SENEGAL",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",7132737
+00,"Annual",2018,"No label",SR,"SURINAME",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",107913
+00,"Annual",2018,"No label",SR,"SURINAME",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",12460
+00,"Annual",2018,"No label",SR,"SURINAME",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",2774447
+00,"Annual",2018,"No label",SR,"SURINAME",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",47189903
+00,"Annual",2018,"No label",SR,"SURINAME",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",88776
+00,"Annual",2018,"No label",SR,"SURINAME",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",100529192
+00,"Annual",2018,"No label",SR,"SURINAME",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",258437772
+00,"Annual",2018,"No label",SR,"SURINAME",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",84560367
+00,"Annual",2018,"No label",SR,"SURINAME",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",950616
+00,"Annual",2018,"No label",SR,"SURINAME",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",414896
+00,"Annual",2018,"No label",SR,"SURINAME",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",935118
+00,"Annual",2018,"No label",SR,"SURINAME",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",454353
+00,"Annual",2018,"No label",SR,"SURINAME",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",4749448
+00,"Annual",2018,"No label",SR,"SURINAME",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",99920504
+00,"Annual",2018,"No label",SV,"EL SALVADOR",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",4759550
+00,"Annual",2018,"No label",SV,"EL SALVADOR",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",6988
+00,"Annual",2018,"No label",SX,"SINT MAARTEN",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",1688
+00,"Annual",2018,"No label",SX,"SINT MAARTEN",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",58796
+00,"Annual",2018,"No label",SX,"SINT MAARTEN",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",7866
+00,"Annual",2018,"No label",SX,"SINT MAARTEN",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",15066382
+00,"Annual",2018,"No label",SX,"SINT MAARTEN",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",62902
+00,"Annual",2018,"No label",SX,"SINT MAARTEN",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",10062933
+00,"Annual",2018,"No label",SX,"SINT MAARTEN",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",276316530
+00,"Annual",2018,"No label",SX,"SINT MAARTEN",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",10000
+00,"Annual",2018,"No label",SX,"SINT MAARTEN",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",109375
+00,"Annual",2018,"No label",SX,"SINT MAARTEN",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",70616
+00,"Annual",2018,"No label",SX,"SINT MAARTEN",d,"domestic exports",521,"Transport equipment, other, industrial",VALUE,"VALUE",45165
+00,"Annual",2018,"No label",SX,"SINT MAARTEN",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",124573
+00,"Annual",2018,"No label",SX,"SINT MAARTEN",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",18812
+00,"Annual",2018,"No label",SX,"SINT MAARTEN",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",2806033
+00,"Annual",2018,"No label",SX,"SINT MAARTEN",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",968301
+00,"Annual",2018,"No label",TC,"TURKS AND CAICOS ISL.",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",173
+00,"Annual",2018,"No label",TC,"TURKS AND CAICOS ISL.",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",2318522
+00,"Annual",2018,"No label",TC,"TURKS AND CAICOS ISL.",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",17900
+00,"Annual",2018,"No label",TC,"TURKS AND CAICOS ISL.",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",29132
+00,"Annual",2018,"No label",TC,"TURKS AND CAICOS ISL.",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",339077
+00,"Annual",2018,"No label",TC,"TURKS AND CAICOS ISL.",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",278914
+00,"Annual",2018,"No label",TC,"TURKS AND CAICOS ISL.",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",57752
+00,"Annual",2018,"No label",TF,"FRENCH SOUTHERN TERRITORIES",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",7139
+00,"Annual",2018,"No label",TF,"FRENCH SOUTHERN TERRITORIES",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",41806
+00,"Annual",2018,"No label",TF,"FRENCH SOUTHERN TERRITORIES",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",1464570
+00,"Annual",2018,"No label",TF,"FRENCH SOUTHERN TERRITORIES",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",3054269
+00,"Annual",2018,"No label",TF,"FRENCH SOUTHERN TERRITORIES",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",1654477
+00,"Annual",2018,"No label",TF,"FRENCH SOUTHERN TERRITORIES",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",896940
+00,"Annual",2018,"No label",TF,"FRENCH SOUTHERN TERRITORIES",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",34867
+00,"Annual",2018,"No label",TF,"FRENCH SOUTHERN TERRITORIES",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",112405
+00,"Annual",2018,"No label",TF,"FRENCH SOUTHERN TERRITORIES",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",81020
+00,"Annual",2018,"No label",TF,"FRENCH SOUTHERN TERRITORIES",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",4007
+00,"Annual",2018,"No label",TF,"FRENCH SOUTHERN TERRITORIES",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",434266
+00,"Annual",2018,"No label",TG,"TOGO",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",165
+00,"Annual",2018,"No label",TH,"THAILAND",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",11804681
+00,"Annual",2018,"No label",TH,"THAILAND",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",1391003
+00,"Annual",2018,"No label",TH,"THAILAND",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",141146558
+00,"Annual",2018,"No label",TH,"THAILAND",d,"domestic exports",521,"Transport equipment, other, industrial",VALUE,"VALUE",814
+00,"Annual",2018,"No label",TR,"TURKEY",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",14348
+00,"Annual",2018,"No label",TR,"TURKEY",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",171187
+00,"Annual",2018,"No label",TR,"TURKEY",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",25983
+00,"Annual",2018,"No label",TR,"TURKEY",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",382107207
+00,"Annual",2018,"No label",TW,"TAIWAN",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",2773393
+00,"Annual",2018,"No label",TW,"TAIWAN",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",7693428
+00,"Annual",2018,"No label",TW,"TAIWAN",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",229840951
+00,"Annual",2018,"No label",TW,"TAIWAN",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",115204700
+00,"Annual",2018,"No label",TZ,"UNITED REP. OF TANZANIA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",67058
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",201319
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",88901844
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",630723
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",164901410
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",12470633
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",10131204098
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",31,"Fuels and lubricants, primary",VALUE,"VALUE",142115826
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",2952845281
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",2121867766
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",3332793
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",75670419
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",51,"Transport equipment, passenger motor cars",VALUE,"VALUE",1043598
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",521,"Transport equipment, other, industrial",VALUE,"VALUE",420204
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",522,"Transport equipment, other, non-industrial",VALUE,"VALUE",4069
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",702585
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",990934
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",733926
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",1575018
+00,"Annual",2018,"No label",US,"U. S. A.",d,"domestic exports",7,"Goods nes",VALUE,"VALUE",544699
+00,"Annual",2018,"No label",UY,"URUGUAY",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",503219
+00,"Annual",2018,"No label",UY,"URUGUAY",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",13272206
+00,"Annual",2018,"No label",UY,"URUGUAY",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",149115
+00,"Annual",2018,"No label",VC,"ST. VINCENT AND THE GRENADINES",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",5603
+00,"Annual",2018,"No label",VC,"ST. VINCENT AND THE GRENADINES",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",1333059
+00,"Annual",2018,"No label",VC,"ST. VINCENT AND THE GRENADINES",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",746769
+00,"Annual",2018,"No label",VC,"ST. VINCENT AND THE GRENADINES",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",63087597
+00,"Annual",2018,"No label",VC,"ST. VINCENT AND THE GRENADINES",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",580528
+00,"Annual",2018,"No label",VC,"ST. VINCENT AND THE GRENADINES",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",51685797
+00,"Annual",2018,"No label",VC,"ST. VINCENT AND THE GRENADINES",d,"domestic exports",31,"Fuels and lubricants, primary",VALUE,"VALUE",9960
+00,"Annual",2018,"No label",VC,"ST. VINCENT AND THE GRENADINES",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",216274066
+00,"Annual",2018,"No label",VC,"ST. VINCENT AND THE GRENADINES",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",12283070
+00,"Annual",2018,"No label",VC,"ST. VINCENT AND THE GRENADINES",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",543207
+00,"Annual",2018,"No label",VC,"ST. VINCENT AND THE GRENADINES",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",537601
+00,"Annual",2018,"No label",VC,"ST. VINCENT AND THE GRENADINES",d,"domestic exports",521,"Transport equipment, other, industrial",VALUE,"VALUE",15256
+00,"Annual",2018,"No label",VC,"ST. VINCENT AND THE GRENADINES",d,"domestic exports",522,"Transport equipment, other, non-industrial",VALUE,"VALUE",526891
+00,"Annual",2018,"No label",VC,"ST. VINCENT AND THE GRENADINES",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",186202
+00,"Annual",2018,"No label",VC,"ST. VINCENT AND THE GRENADINES",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",3018192
+00,"Annual",2018,"No label",VC,"ST. VINCENT AND THE GRENADINES",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",5584006
+00,"Annual",2018,"No label",VC,"ST. VINCENT AND THE GRENADINES",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",38677761
+00,"Annual",2018,"No label",VE,"VENEZUELA",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",17140
+00,"Annual",2018,"No label",VE,"VENEZUELA",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",69946
+00,"Annual",2018,"No label",VE,"VENEZUELA",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",53680
+00,"Annual",2018,"No label",VE,"VENEZUELA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",1294348
+00,"Annual",2018,"No label",VE,"VENEZUELA",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",12700
+00,"Annual",2018,"No label",VE,"VENEZUELA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",1071832
+00,"Annual",2018,"No label",VE,"VENEZUELA",d,"domestic exports",31,"Fuels and lubricants, primary",VALUE,"VALUE",21715
+00,"Annual",2018,"No label",VE,"VENEZUELA",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",412136896
+00,"Annual",2018,"No label",VE,"VENEZUELA",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",585
+00,"Annual",2018,"No label",VE,"VENEZUELA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",120752
+00,"Annual",2018,"No label",VE,"VENEZUELA",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",605628
+00,"Annual",2018,"No label",VE,"VENEZUELA",d,"domestic exports",522,"Transport equipment, other, non-industrial",VALUE,"VALUE",189930
+00,"Annual",2018,"No label",VE,"VENEZUELA",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",408225
+00,"Annual",2018,"No label",VE,"VENEZUELA",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",77660
+00,"Annual",2018,"No label",VE,"VENEZUELA",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",88975
+00,"Annual",2018,"No label",VE,"VENEZUELA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",52695
+00,"Annual",2018,"No label",VG,"BRITISH VIRGIN ISLANDS",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",2426
+00,"Annual",2018,"No label",VG,"BRITISH VIRGIN ISLANDS",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",141157
+00,"Annual",2018,"No label",VG,"BRITISH VIRGIN ISLANDS",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",182243
+00,"Annual",2018,"No label",VG,"BRITISH VIRGIN ISLANDS",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",4687805
+00,"Annual",2018,"No label",VG,"BRITISH VIRGIN ISLANDS",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",20916
+00,"Annual",2018,"No label",VG,"BRITISH VIRGIN ISLANDS",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",7217670
+00,"Annual",2018,"No label",VG,"BRITISH VIRGIN ISLANDS",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",53015232
+00,"Annual",2018,"No label",VG,"BRITISH VIRGIN ISLANDS",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",1517848
+00,"Annual",2018,"No label",VG,"BRITISH VIRGIN ISLANDS",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",215317
+00,"Annual",2018,"No label",VG,"BRITISH VIRGIN ISLANDS",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",266748
+00,"Annual",2018,"No label",VG,"BRITISH VIRGIN ISLANDS",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",102297
+00,"Annual",2018,"No label",VG,"BRITISH VIRGIN ISLANDS",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",635029
+00,"Annual",2018,"No label",VG,"BRITISH VIRGIN ISLANDS",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",2915865
+00,"Annual",2018,"No label",VI,"U. S. VIRGIN ISLANDS",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",1001
+00,"Annual",2018,"No label",VI,"U. S. VIRGIN ISLANDS",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",1419296
+00,"Annual",2018,"No label",VI,"U. S. VIRGIN ISLANDS",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",3583
+00,"Annual",2018,"No label",VI,"U. S. VIRGIN ISLANDS",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",2546873
+00,"Annual",2018,"No label",VI,"U. S. VIRGIN ISLANDS",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",11089
+00,"Annual",2018,"No label",VI,"U. S. VIRGIN ISLANDS",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",1788003
+00,"Annual",2018,"No label",VI,"U. S. VIRGIN ISLANDS",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",34231166
+00,"Annual",2018,"No label",VI,"U. S. VIRGIN ISLANDS",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",9490
+00,"Annual",2018,"No label",VI,"U. S. VIRGIN ISLANDS",d,"domestic exports",522,"Transport equipment, other, non-industrial",VALUE,"VALUE",976306
+00,"Annual",2018,"No label",VI,"U. S. VIRGIN ISLANDS",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",3500
+00,"Annual",2018,"No label",VI,"U. S. VIRGIN ISLANDS",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",107736
+00,"Annual",2018,"No label",VI,"U. S. VIRGIN ISLANDS",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",169661
+00,"Annual",2018,"No label",VI,"U. S. VIRGIN ISLANDS",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",1416806
+00,"Annual",2018,"No label",VN,"VIET NAM",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",13509360
+00,"Annual",2018,"No label",VN,"VIET NAM",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",1725550
+00,"Annual",2018,"No label",VN,"VIET NAM",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",316200
+00,"Annual",2018,"No label",X3,"STORES AND BUNKERS",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",63455
+00,"Annual",2018,"No label",X3,"STORES AND BUNKERS",d,"domestic exports",112,"Food and beverages, primary, mainly for household consumption",VALUE,"VALUE",2277888
+00,"Annual",2018,"No label",X3,"STORES AND BUNKERS",d,"domestic exports",121,"Food and beverages, processed, mainly for industry",VALUE,"VALUE",554539
+00,"Annual",2018,"No label",X3,"STORES AND BUNKERS",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",4329093
+00,"Annual",2018,"No label",X3,"STORES AND BUNKERS",d,"domestic exports",21,"Industrial supplies nes, primary",VALUE,"VALUE",137022
+00,"Annual",2018,"No label",X3,"STORES AND BUNKERS",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",10794914
+00,"Annual",2018,"No label",X3,"STORES AND BUNKERS",d,"domestic exports",31,"Fuels and lubricants, primary",VALUE,"VALUE",2306
+00,"Annual",2018,"No label",X3,"STORES AND BUNKERS",d,"domestic exports",32,"Fuels and lubricants, processed",VALUE,"VALUE",643028469
+00,"Annual",2018,"No label",X3,"STORES AND BUNKERS",d,"domestic exports",322,"Fuels and lubricants, processed (other than motor spirit)",VALUE,"VALUE",5982
+00,"Annual",2018,"No label",X3,"STORES AND BUNKERS",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",398893
+00,"Annual",2018,"No label",X3,"STORES AND BUNKERS",d,"domestic exports",42,"Parts and accessories of capital goods (except transport equipment)",VALUE,"VALUE",42868
+00,"Annual",2018,"No label",X3,"STORES AND BUNKERS",d,"domestic exports",53,"Parts and accessories of transport equipment",VALUE,"VALUE",18776
+00,"Annual",2018,"No label",X3,"STORES AND BUNKERS",d,"domestic exports",61,"Consumption goods nes, durable",VALUE,"VALUE",36300
+00,"Annual",2018,"No label",X3,"STORES AND BUNKERS",d,"domestic exports",62,"Consumption goods nes, semi-durable",VALUE,"VALUE",163137
+00,"Annual",2018,"No label",X3,"STORES AND BUNKERS",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",446762
+00,"Annual",2018,"No label",ZA,"SOUTH AFRICA",d,"domestic exports",111,"Food and beverages, primary, mainly for industry",VALUE,"VALUE",14500
+00,"Annual",2018,"No label",ZA,"SOUTH AFRICA",d,"domestic exports",122,"Food and beverages, processed, mainly for household consumption",VALUE,"VALUE",3490290
+00,"Annual",2018,"No label",ZA,"SOUTH AFRICA",d,"domestic exports",22,"Industrial supplies nes, processed",VALUE,"VALUE",140967099
+00,"Annual",2018,"No label",ZA,"SOUTH AFRICA",d,"domestic exports",41,"Capital goods (except transport equipment)",VALUE,"VALUE",188888
+00,"Annual",2018,"No label",ZA,"SOUTH AFRICA",d,"domestic exports",63,"Consumption goods nes, non-durable",VALUE,"VALUE",10924
