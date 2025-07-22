@@ -1,6 +1,7 @@
 from prefect import task, flow
 import pandas as pd
 
+
 @task(log_prints=True)
 def importing_data():
     data = pd.read_csv('data.csv')
