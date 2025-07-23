@@ -14,10 +14,10 @@ def importing_data():
     print("running task 1. ----------Attempting to import data---------- !")
     v = 'YES' if os.path.exists('data.csv') else 'NO'
     print('IS DATA.CSV PRESENT??? : ' + v)
-          if v == 'YES':
-              df = pd.read_csv('data.csv')
-          else:
-              return None
+    if v == 'YES':
+        df = pd.read_csv('data.csv')
+    else:
+        return None
 
     
     
